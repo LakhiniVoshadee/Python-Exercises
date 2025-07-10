@@ -14,3 +14,7 @@ print("Result of subtraction:", result_sub2)
 
 result1 = add_numbers(10, 5)
 print("Result of addition:", result1)
+
+
+result3 = multiply_numbers(5,3)
+print("Result of multiplication:", result3)
